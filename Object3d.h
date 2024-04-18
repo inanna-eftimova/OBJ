@@ -11,7 +11,9 @@ private:
     std::vector<std::vector<int>> faces;
 public:
     Object3d(const std::string& filename);
+    Object3d(std::istream& inputStream);
     void loadModel(const std::string& filename);
+    void loadModelByStream(std::istream& inputStream);
     void printModelData() const;
 };
 
