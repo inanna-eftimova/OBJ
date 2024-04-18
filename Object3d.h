@@ -12,9 +12,10 @@ private:
 public:
     Object3d(const std::string& filename);
     Object3d(std::istream& inputStream);
-    void loadModel(const std::string& filename);
-    void loadModelByStream(std::istream& inputStream);
+    void loadModel(std::istream& inputStream);
     void printModelData() const;
+    int getVertexCount() const;
+    int getFaceCount() const;
 };
 
 #endif
