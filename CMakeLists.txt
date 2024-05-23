@@ -1,8 +1,14 @@
 cmake_minimum_required(VERSION 3.27)
-project(first_homework)
+project(obj)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(first_homework main.cpp
+add_executable(obj
+        main.cpp
         Object3d.h
-        Object3d.cpp)
+        Object3d.cpp
+        Vertex.h
+        Vertex.cpp
+        Face.h
+        Face.cpp
+)

@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "first_homework",
+					"name" : "obj",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "first_homework::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-first_homework-Debug-668ffa9927e5d29da423.json",
-					"name" : "first_homework",
+					"id" : "obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-obj-Debug-2be18f7691d65daf98f9.json",
+					"name" : "obj",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/inana/CLionProjects/first-homework/cmake-build-debug",
-		"source" : "/Users/inana/CLionProjects/first-homework"
+		"build" : "/Users/inana/CLionProjects/demo-hom/cmake-build-debug",
+		"source" : "/Users/inana/CLionProjects/demo-hom"
 	},
 	"version" : 
 	{

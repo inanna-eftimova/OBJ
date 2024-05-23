@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/inana/CLionProjects/first-homework/cmake-build-debug"
+			"value" : "/Users/inana/CLionProjects/demo-hom/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/inana/CLionProjects/first-homework/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/inana/CLionProjects/demo-hom/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/inana/CLionProjects/first-homework"
+			"value" : "/Users/inana/CLionProjects/demo-hom"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "first_homework"
+			"value" : "obj"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1118,7 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "first_homework_BINARY_DIR",
+			"name" : "demo_hom_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1127,10 +1127,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/inana/CLionProjects/first-homework/cmake-build-debug"
+			"value" : "/Users/inana/CLionProjects/demo-hom/cmake-build-debug"
 		},
 		{
-			"name" : "first_homework_IS_TOP_LEVEL",
+			"name" : "demo_hom_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1142,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "first_homework_SOURCE_DIR",
+			"name" : "demo_hom_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1151,7 +1151,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/inana/CLionProjects/first-homework"
+			"value" : "/Users/inana/CLionProjects/demo-hom"
+		},
+		{
+			"name" : "obj_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/inana/CLionProjects/demo-hom/cmake-build-debug"
+		},
+		{
+			"name" : "obj_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "obj_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/inana/CLionProjects/demo-hom"
 		}
 	],
 	"kind" : "cache",
